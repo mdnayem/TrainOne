@@ -1,0 +1,11 @@
+git
+git status
+git add
+git add -A (to add all files)
+git commit
+git push
+git pull
+
+If you forget to add comments when commit, it returns error message. To get out and save,
+do following...
+ESC button then :wq to save the file

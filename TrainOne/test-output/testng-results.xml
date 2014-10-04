@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28" started-at="2014-08-23T20:03:53Z" finished-at="2014-08-23T20:03:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28" started-at="2014-08-23T20:03:53Z" finished-at="2014-08-23T20:03:53Z">
+      <class name="mypackage.Forloop">
+        <test-method status="PASS" signature="forlupmsg()[pri:0, instance:mypackage.Forloop@1a3174f7]" name="forlupmsg" is-config="true" duration-ms="15" started-at="2014-08-23T16:03:53Z" finished-at="2014-08-23T16:03:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forlupmsg -->
+      </class> <!-- mypackage.Forloop -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
